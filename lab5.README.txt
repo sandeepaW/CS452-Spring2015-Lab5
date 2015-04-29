@@ -1,1 +1,6 @@
-name, date, description
+name: Shandeepa Wickramasinghe 
+date: 4/29/1985
+description: Lab 5 casts a shadow of my 3d object with 12 vertices onto a rectangle using shadow mapping.
+This program is using webgl-utils, cuon-matrix, cuon-utils and webgl-debug.
+I will email you the directory with contains above files.
+
